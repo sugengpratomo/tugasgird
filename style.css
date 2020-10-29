@@ -1,5 +1,5 @@
 body {
-    background-image: url('../image/front-banner.png');
+    background-image: url('front-banner.png');
     background-size: cover;
     font-weight: bold;
 }
